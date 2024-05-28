@@ -1,0 +1,9 @@
+1) rouge score only in response generation wo emotion not in with emotion 
+2) I want to understand the code in detail
+3) what are the best values? For all automatic evaluation? Means perplexity,  Bleu, and rouge
+4) have we achieved values?
+5) How we have implemented code ? Specially emotion detection? Have we used earlier emotion detection module from objective 1?
+6) how we have implemented denoising  autoencoder?
+7) i can't see User interface? How to ask questions and get answers?
+8) testing of chatbot ?
+9) what are these keras files? For what purpose they are there? How used? In the code
